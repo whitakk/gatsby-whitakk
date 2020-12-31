@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: "Kevin Whitaker",
+  title: "Kevin Whitaker's personal blog",
   subtitle: "Kevin Whitaker's website",
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -13,7 +13,7 @@ module.exports = {
   menu: [
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/index'
     },
     {
       label: 'Personal Blog',
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Kevin Whitaker',
     photo: '/photo.jpg',
-    bio: 'Writing x Analytics',
+    bio: 'temp bio to come here',
     contacts: {
       email: '',
       facebook: '',
@@ -53,7 +53,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '',
-      //goodreads: 'https://www.goodreads.com/user/show/61117555-kevin-whitaker',
+      goodreads: 'https://www.goodreads.com/user/show/61117555-kevin-whitaker',
     }
   }
 };

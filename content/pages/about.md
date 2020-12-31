@@ -1,13 +1,13 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/photo.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am the analytics manager at the BCG Henderson Institute, where I co-lead a research team of consultants and data scientists to write perspectives on the future of business strategy. [My writing](/pages/business-strategy/) has been published in Harvard Business Review, Sloan Management Review, Fortune, and the World Economic Forum. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I graduated from Princeton University with a bachelor's degree in economics in 2013. I write on [my personal blog](/) from time to time about random topics inspired by things I read or questions that can be answered with data science. (Any opinions are my own.)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I have extensive experience in [sportswriting](/pages/sports) informed by a quantitative perspective and firsthand statistical analysis. My reserach paper, "Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was published at the 2013 MIT Sloan Sports Analytics Conference, and my writing has appeared in Sports Illustrated and Baseball Prospectus, among other outlets. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+See my resume on [LinkedIn](https://www.linkedin.com/in/kevin-whitaker-2bb9ab66)
