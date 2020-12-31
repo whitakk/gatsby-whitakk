@@ -13,11 +13,11 @@ module.exports = {
   menu: [
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/'
     },
     {
       label: 'Personal Blog',
-      path: '/'
+      path: '/page/0'
     },
     {
       label: 'Business & Strategy',
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Kevin Whitaker',
     photo: '/photo.jpg',
-    bio: 'Writing x Analytics',
+    bio: 'Writing + Analytics',
     contacts: {
       email: '',
       facebook: '',

@@ -29,6 +29,7 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/categories-list-template.js')
   });
 
+
   // Posts and pages from markdown
   const result = await graphql(`
     {
@@ -53,6 +54,25 @@ const createPages = async ({ graphql, actions }) => {
 
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
+      // changed here: if a slug matches, rewrite its path to "/"
+      const slugToUse = edge.node.fields.slug === "/pages/" ? "/" : edge.node.fields.slug;
+      createPage({
+        path: slugToUse,
+        component: path.resolve('./src/templates/page-template.js'),
+        context: { slug: edge.node.fields.slug }
+      });
+    } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
+      createPage({
+        path: edge.node.fields.slug,
+        component: path.resolve('./src/templates/post-template.js'),
+        context: { slug: edge.node.fields.slug }
+      });
+    }
+  });
+  
+  /* old version
+  _.each(edges, (edge) => {
+    if (_.get(edge, 'node.frontmatter.template') === 'page') {
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve('./src/templates/page-template.js'),
@@ -66,6 +86,7 @@ const createPages = async ({ graphql, actions }) => {
       });
     }
   });
+  */
 
   // Feeds
   await createTagsPages(graphql, actions);

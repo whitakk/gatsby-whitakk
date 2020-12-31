@@ -5,4 +5,34 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-Placeholder for links to my reading 
+I review most of the books I read on GoodReads -- [follow me here](https://www.goodreads.com/user/show/61117555-kevin-whitaker).
+
+Favorite books I read in 2020:
+
+-   [The Great Believers](https://www.goodreads.com/book/show/45304101-the-great-believers)
+-   [Crashed: How a Decade of Financial Crises Changed the World](https://www.goodreads.com/book/show/36950522-crashed)
+-   [The Color of Law](https://www.goodreads.com/book/show/32191706-the-color-of-law)
+-   [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
+-   [The Spy and the Traitor](https://www.goodreads.com/book/show/37542581-the-spy-and-the-traitor)
+-   [Nothing to See Here](https://www.goodreads.com/book/show/42519313-nothing-to-see-here)
+-   [The Dutch House](https://www.goodreads.com/book/show/44318414-the-dutch-house)
+
+Favorite books I read in 2019:
+
+-   [Architects of Intelligence](https://www.goodreads.com/book/show/41998128-architects-of-intelligence)
+-   [Uncivil Agreement](https://www.goodreads.com/book/show/36100653-uncivil-agreement)
+-   [Red Notice](https://www.goodreads.com/book/show/22609522-red-notice)
+-   [Home Fire](https://www.goodreads.com/book/show/33621427-home-fire)
+-   [722 Miles: The Building of the Subways and How They Transformed New York](https://www.goodreads.com/book/show/132486.722_Miles)
+-   [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (and the rest of the series)
+-   [Schism: China, America, and the Fracturing of the Global Trading System](https://www.goodreads.com/book/show/44179459-schism)
+
+Other favorites:
+
+-   [The Only Rule is It Has To Work](https://www.goodreads.com/book/show/26792284-the-only-rule-is-it-has-to-work)
+-   [Salt Fat Acid Heat](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
+-   [Baseball in the Garden of Eden](https://www.goodreads.com/book/show/8984168-baseball-in-the-garden-of-eden)
+-   [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/book/show/17286670-scarcity?ac=1&from_search=true&qid=2ZBHkzhtoH&rank=1)
+-   [The Numbers Game](https://www.goodreads.com/book/show/225819.The_Numbers_Game)
+-   [It's Complicated](https://www.goodreads.com/book/show/18342787-it-s-complicated)
+-   [Catch-22](https://www.goodreads.com/book/show/168668.Catch_22?ac=1&from_search=true&qid=W7eQ4yQWQI&rank=1)
