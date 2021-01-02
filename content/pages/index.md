@@ -4,9 +4,9 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kevin-whitaker-2bb9ab66/) | [Tiwtter](https://twitter.com/whitakk) | [GitHub](https://github.com/whitakk/) | [GoodReads](https://www.goodreads.com/user/show/61117555-kevin-whitaker/)
+[LinkedIn](https://www.linkedin.com/in/kevin-whitaker-2bb9ab66/) | [Twitter](https://twitter.com/whitakk) | [GitHub](https://github.com/whitakk/) | [GoodReads](https://www.goodreads.com/user/show/61117555-kevin-whitaker/)
 
-I am the analytics manager at the BCG Henderson Institute, where I co-lead a research team of consultants and data scientists to write perspectives on the future of business strategy. [My writing](/pages/business-strategy/) has been published in Harvard Business Review, Sloan Management Review, Fortune, and the World Economic Forum. 
+I am the analytics manager at the BCG Henderson Institute, where I co-lead a research team of consultants and data scientists to write perspectives on the future of business strategy. My writing [has been published](/pages/business-strategy/) in Harvard Business Review, Sloan Management Review, Fortune, and the World Economic Forum.
 
 I graduated from Princeton University with a bachelor's degree in economics in 2013. I write on [my personal blog](/) from time to time about random topics inspired by things I read or questions that can be answered with data science. (Any opinions are my own.)
 

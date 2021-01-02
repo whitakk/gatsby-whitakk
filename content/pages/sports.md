@@ -11,30 +11,30 @@ I have extensive experience in sportswriting, often informed by a quantitative p
 
 #### MIT Sloan Sports Analytics Conference (2013)
 
-My research paper, "Does a Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was accepted for publication and a poster at the 2013 MIT Sloan Sports Analytics Conference. [You can read the paper here](/media/Kevin_Whitaker_SSAC_2013.pdf).
+My research paper, "Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was accepted for publication and a poster at the 2013 MIT Sloan Sports Analytics Conference. [You can read the paper here](/media/Kevin_Whitaker_SSAC_2013.pdf).
 
 #### Princeton Alumni Weekly (2010-20)
 
 I was a student contributor to PAW from 2011-13 writing weekly columns and regular magazine features on Princeton sports, and still occasionally contribute articles on Princeton football and basketball. You can find [my author archive here](https://paw.princeton.edu/search/site/%2522By%2520Kevin%2520Whitaker%2520%25E2%2580%259913%2522) and some recent or favorite articles below: 
-- [Dartmouth Topples Princeton in Unbeaten Battle at Yankee Stadium](https://paw.princeton.edu/article/football-dartmouth-topples-princeton-unbeaten-battle-yankee-stadium)
-- [Dancing Again](https://paw.princeton.edu/article/womens-basketball-dancing-again)
-- [Don't Fear the Ivy League Tournament](https://paw.princeton.edu/article/don%E2%80%99t-fear-ivy-league-tournament)
+- [Dartmouth topples Princeton in unbeaten battle at Yankee Stadium](https://paw.princeton.edu/article/football-dartmouth-topples-princeton-unbeaten-battle-yankee-stadium)
+- [Dancing again](https://paw.princeton.edu/article/womens-basketball-dancing-again)
+- [Don't fear the Ivy League Tournament](https://paw.princeton.edu/article/don%E2%80%99t-fear-ivy-league-tournament)
 - [The comeback: Princeton football stuns Harvard, 39-34](https://paw.princeton.edu/article/comeback-princeton-football-stuns-harvard-39-34)
 
 #### NYC Buckets (2014-18)
 
 I wrote a weekly column about Ivy League Basketball, covered games from various mid-major conferences, and wrote occasional analysis features for NYC Buckets, a website covering college basketball around the Northeast. The website has since disbanded but some of my favorite evergreen articles are saved here: 
-- [You Can Take The Players Out Of New York City, But…](https://medium.com/chart-shots/you-can-take-the-players-out-of-new-york-city-but-fb2386050d75)
-- [The Long Arc of Home-Court Advantage](https://medium.com/chart-shots/the-long-arc-of-home-court-advantage-dc54c591bb7f)
-- [The Shotties: Detailed Shot Charts](https://medium.com/chart-shots/the-shotties-miscellaneous-ivy-league-awards-406a3deca259)
-- [Evaluating Preseason College Basketball Projections](https://medium.com/chart-shots/evaluating-preseason-college-basketball-projections-eccbb34345fd)
+- [You can take the players out of New York City, But…](https://medium.com/chart-shots/you-can-take-the-players-out-of-new-york-city-but-fb2386050d75)
+- [The long arc of home-court advantage](https://medium.com/chart-shots/the-long-arc-of-home-court-advantage-dc54c591bb7f)
+- [The Shotties: Detailed shot charts](https://medium.com/chart-shots/the-shotties-miscellaneous-ivy-league-awards-406a3deca259)
+- [Evaluating preseason college basketball projections](https://medium.com/chart-shots/evaluating-preseason-college-basketball-projections-eccbb34345fd)
 - [How scorekeeper biases affect shot-selection data](https://medium.com/chart-shots/how-scorekeeper-biases-affect-shot-selection-data-987915423538)
 
 #### Baseball Prospectus (2013-14)
 
 I wrote two guest articles for Baseball Prospectus: 
-- [Riding Top Prospects’ Coattails in the MLB Draft](https://www.baseballprospectus.com/prospects/article/23795/baseball-proguestus-riding-top-prospects-coattails-in-the-mlb-draft/)
-- [Rethinking Hall of Fame Standards in Expansion Eras](https://www.baseballprospectus.com/news/article/22497/baseball-proguestus-rethinking-hall-of-fame-standards-in-expansion-eras/)
+- [Riding top prospects’ coattails in the MLB Draft](https://www.baseballprospectus.com/prospects/article/23795/baseball-proguestus-riding-top-prospects-coattails-in-the-mlb-draft/)
+- [Rethinking Hall of Fame standards in expansion eras](https://www.baseballprospectus.com/news/article/22497/baseball-proguestus-rethinking-hall-of-fame-standards-in-expansion-eras/)
 
 #### The Daily Princetonian (2009-13)
 
