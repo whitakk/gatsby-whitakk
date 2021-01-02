@@ -237,6 +237,15 @@ module.exports = {
         tracesSampleRate: 1
       }
     },
+    // added for SVG issue
+    {
+      resolve: 'gatsby-plugin-react-svg',
+      options: {
+        rule: {
+          include: /svg/
+        }
+      }
+    },   
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs'
   ]

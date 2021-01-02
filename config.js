@@ -40,11 +40,11 @@ module.exports = {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: 'whitakk',
-      github: 'whitakk',
+      twitter: '', // deactivate to avoid SVG problem: 'whitakk'
+      github: '', // deactivate to avoid SVG problem: 'whitakk'
       rss: '',
       vkontakte: '',
-      linkedin: 'kevin-whitaker-2bb9ab66',
+      linkedin: '', // deactivate to avoid svg problem: kevin-whitaker-2bb9ab66
       instagram: '',
       line: '',
       gitlab: '',
