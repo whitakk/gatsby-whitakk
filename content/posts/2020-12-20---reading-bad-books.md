@@ -1,6 +1,6 @@
 ---
 title: Why you should read bad books
-date: "2020-12-20"
+date: "2020-12-21T12:00:00"
 template: "post"
 draft: false
 slug: "reading-bad-books"
@@ -8,7 +8,7 @@ category: "reading"
 tags:
   - "books"
   - "reading"
-description: "One of my guilty pleasures is reading books about time management. I consider it a guilty pleasure because I know they have basically the same advice -- there are only so many ways to say "put down your phone," "protect time for focused work," and "avoid task-switching." Picking up a book on time management gives me the thrill that the secret to happiness is right around the corner, when in fact the real problem is that I have 30 hours' worth of things I want to do each day, which won't be solved by any book."
+description: "One of my guilty pleasures is reading books about time management. I consider it a guilty pleasure because I know they have basically the same advice -- there are only so many ways to say 'put down your phone,' 'protect time for focused work,' and 'avoid task-switching.' Picking up a book on time management gives me the thrill that the secret to happiness is right around the corner, when in fact the real problem is that I have 30 hours' worth of things I want to do each day, which won't be solved by any book."
 socialImage: "/media/books.jpg"
 
 ---

@@ -10,7 +10,7 @@ tags:
   - "image-recognition"
   - "reading"
 description: "You know the adage: you can't judge a book by its cover. But let's be real, I do it all the time, and you probably do too. You can think of books that confirm or disprove the old saying, but advancements in AI, image recognition algorithms, and crowdsourcing platforms allow us to go beyond anecdotes and analyze this in more detail: can you judge a book by its cover after all?"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/books/ratings_high.JPG"
 
 ---
 

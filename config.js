@@ -24,7 +24,7 @@ module.exports = {
       path: '/pages/business-strategy'
     },
     {
-      label: 'Sportswriting & analysis',
+      label: 'Sportswriting & Analysis',
       path: '/pages/sports'
     },
     {

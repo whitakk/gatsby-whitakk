@@ -1,6 +1,6 @@
 ---
 title: The hot hand fallacy fallacy fallacy
-date: "2020-11-01"
+date: "2020-11-01T12:00:00"
 template: "post"
 draft: false
 slug: "hot-hand-fallacy-fallacy-fallacy"
