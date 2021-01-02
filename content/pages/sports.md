@@ -5,7 +5,7 @@ template: "page"
 socialImage: "/media/jadwin.jpg"
 ---
 
-![photo](/media/jadwin.jpg)
+<img src="/media/jadwin.jpg">
 
 I have extensive experience in sportswriting, often informed by a quantitative perspective and firsthand statistical analysis. You can see [a few recent blog posts on sports here](/tag/sports/) and some of my favorite writing below.
 
