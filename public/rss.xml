@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker's website]]></description><link>https://whitakk.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jan 2021 20:27:18 GMT</lastBuildDate><item><title><![CDATA[52 things I learned in 2020]]></title><description><![CDATA[1. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [...]]]></description><link>https://whitakk.com/posts/52-things-I-learned-2020</link><guid isPermaLink="false">https://whitakk.com/posts/52-things-I-learned-2020</guid><pubDate>Sun, 27 Dec 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker's website]]></description><link>https://whitakk.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 02:06:33 GMT</lastBuildDate><item><title><![CDATA[52 things I learned in 2020]]></title><description><![CDATA[1. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [...]]]></description><link>https://whitakk.com/posts/52-things-I-learned-2020</link><guid isPermaLink="false">https://whitakk.com/posts/52-things-I-learned-2020</guid><pubDate>Sun, 27 Dec 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
     &gt;
@@ -289,50 +289,7 @@
 &lt;p&gt;&lt;img src=&quot;media/books/fiction.JPG&quot; alt=&quot;fiction&quot;&gt;&lt;img src=&quot;media/books/nonfiction.JPG&quot; alt=&quot;nonfiction&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Try it for yourself &lt;a href=&quot;https://mybinder.org/v2/gh/whitakk/book_covers/master?urlpath=voila%2Frender%2Fbook_genre_predictor.ipynb&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;by following this link and uploading a picture&lt;/a&gt; — it will tell you what genres the model predicts for this book. (Note that it takes a little while to load, and may take a couple seconds from when you upload your picture to show results.)&lt;/p&gt;
 &lt;p&gt;Of course, it isn’t very useful to predict a book’s genre from the cover, because you usually know that when you’re considering buying it. But it demonstrates that there is information encoded in the cover about what type of book it is, which might apply to dimensions beyond just genre.&lt;/p&gt;
-&lt;p&gt;And it makes sense that this could work. As mentioned before, if there was something that signaled “this is a great book” it would be adopted everywhere — but something that signals “this is a great book &lt;em&gt;for you,&lt;/em&gt; &lt;em&gt;if you like books of a certain type&lt;/em&gt;” can’t be adopted everywhere, because it will turn off people who prefer a different type instead. So signaling this way is actually effective.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The hot hand fallacy fallacy fallacy]]></title><description><![CDATA[You've probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the hot hand: a player who made their last couple shots was more likely to make the next one as well. But a famous 1985 study, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one -- there was no hot hand.]]></description><link>https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</link><guid isPermaLink="false">https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</guid><pubDate>Sun, 01 Nov 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/57d2a72ce57b297d1d0beed915460538/72e01/hothand.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 73.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/aAAwDAQACEAMQAAABTvSbCnIJGH//xAAaEAEBAAIDAAAAAAAAAAAAAAACAQASAxET/9oACAEBAAEFAtlukWMfJLfWUd5//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABsQAQACAwEBAAAAAAAAAAAAAAECEQAQIRJB/9oACAEBAAY/AvWLKIOiUWn7nIF111//xAAcEAEAAgIDAQAAAAAAAAAAAAABABFBYSExUaH/2gAIAQEAAT8hUq5RtshZtm6+R3GUOY5jTgCau/I6T//aAAwDAQACAAMAAAAQcx//xAAWEQEBAQAAAAAAAAAAAAAAAAABAFH/2gAIAQMBAT8QEZTb/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QUT//xAAeEAACAgICAwAAAAAAAAAAAAABEQAxIUFRYXGBof/aAAgBAQABPxBTDbIW9iJ8wAJOeLP1GBNj1ALiKECbHLteYVAiQG2Pq5nRArE//9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/57d2a72ce57b297d1d0beed915460538/8ac56/hothand.webp 240w,
-/static/57d2a72ce57b297d1d0beed915460538/d3be9/hothand.webp 480w,
-/static/57d2a72ce57b297d1d0beed915460538/e46b2/hothand.webp 960w,
-/static/57d2a72ce57b297d1d0beed915460538/a9a89/hothand.webp 1024w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/57d2a72ce57b297d1d0beed915460538/09b79/hothand.jpg 240w,
-/static/57d2a72ce57b297d1d0beed915460538/7cc5e/hothand.jpg 480w,
-/static/57d2a72ce57b297d1d0beed915460538/6a068/hothand.jpg 960w,
-/static/57d2a72ce57b297d1d0beed915460538/72e01/hothand.jpg 1024w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/57d2a72ce57b297d1d0beed915460538/6a068/hothand.jpg&quot;
-          alt=&quot;hothand&quot;
-          title=&quot;hothand&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;You’ve probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the “hot hand”: a player who made their last couple shots was more likely to make the next one as well. But &lt;a href=&quot;https://www.cs.colorado.edu/~mozer/Teaching/syllabi/7782/readings/gilovich%2520vallone%2520tversky.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;a famous 1985 study&lt;/a&gt;, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one — there was no hot hand.&lt;/p&gt;
+&lt;p&gt;And it makes sense that this could work. As mentioned before, if there was something that signaled “this is a great book” it would be adopted everywhere — but something that signals “this is a great book &lt;em&gt;for you,&lt;/em&gt; &lt;em&gt;if you like books of a certain type&lt;/em&gt;” can’t be adopted everywhere, because it will turn off people who prefer a different type instead. So signaling this way is actually effective.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The hot hand fallacy fallacy fallacy]]></title><description><![CDATA[You've probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the hot hand: a player who made their last couple shots was more likely to make the next one as well. But a famous 1985 study, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one -- there was no hot hand.]]></description><link>https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</link><guid isPermaLink="false">https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</guid><pubDate>Sun, 01 Nov 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’ve probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the “hot hand”: a player who made their last couple shots was more likely to make the next one as well. But &lt;a href=&quot;https://www.cs.colorado.edu/~mozer/Teaching/syllabi/7782/readings/gilovich%2520vallone%2520tversky.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;a famous 1985 study&lt;/a&gt;, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one — there was no hot hand.&lt;/p&gt;
 &lt;p&gt;One of the study’s authors, Amos Tversky, became one of the pioneers of behavioral economics (along with Daniel Kahneman), and the hot hand fallacy entered the canon of ways in which we act irrationally — we read patterns from data that is really just random noise.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The fallacy of the fallacy&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A few years ago, Joshua Miller and Adam Sanjurjo published a remarkable paper showing that &lt;a href=&quot;https://osf.io/sv9x2/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;the 1985 study calculated the hot hand effect wrong&lt;/a&gt;. Their rough analogy: the original study found that after a streak of three made shots, the next shot was no more or less likely to be made. But if you flip a random coin 100 times, then go back and look for streaks of three heads, the probability that the following flip is tails is actually significantly less than 50%.&lt;/p&gt;
