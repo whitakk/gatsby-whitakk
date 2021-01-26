@@ -5,11 +5,15 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-I am the analytics manager at the BCG Henderson Institute, BCG's internal think tank on the future of business strategy. I co-lead a  team of consultants and data scientists at the BHI's Strategy Lab, guiding research from ideation through writing for publication and presenting to corporate leaders. I have published on a number of quantitative and qualitative topics including resilience to economic downturns, business responses to Covid-19, corporate vitality and longevity, and the changing nature of competitive advantage. 
+I am the analytics manager at the BCG Henderson Institute, BCG's internal think tank on the future of business strategy. I co-lead a team of consultants and data scientists at the BHI's Strategy Lab, guiding research from ideation through writing for publication and presenting to corporate leaders. I have published on a number of quantitative and qualitative topics including resilience to economic downturns, business responses to Covid-19, corporate vitality and longevity, and the changing nature of competitive advantage. 
 
 Selected publications are highlighted below; you can find more of my recent work on [my BCG page](https://www.bcg.com/about/people/experts/kevin-whitaker) and more from the BHI at [its website](https://bcghendersoninstitute.com/).
 
 ### Selected publications:
+
+#### [Inspiring the Next Game: Strategy ideas for forward-looking leaders](https://www.degruyter.com/view/serial/BCG-B?contents=toc-59654)
+
+De Gruyter, 2021 - The Inspiring the Next Game series is a set of perspectives on emerging themes in business from the BCG Henderson Institute. This series takes a broad view of strategy, reflecting the multifaceted imperatives that leaders face. It goes beyond the static view of classical strategy and explores the dynamic side of strategy that is necessary for a complex, uncertain context. And it goes beyond the traditional role of the strategy function to explore implications in other areas, such as technology, organizational design, and management and leadership broadly. Books edited by Martin Reeves and Kevin Whitaker
 
 #### [The 2020 Fortune Future 50](https://fortune.com/2020/12/03/fortune-future-50-index-global-companies-growth-vitality-formula/)
 
@@ -25,7 +29,7 @@ Harvard Business Review, Jul 2020 - COVID-19 has revealed the need to design bus
 
 #### [How Chinese Companies Have Responded to Coronavirus](https://hbr.org/2020/03/how-chinese-companies-have-responded-to-coronavirus)
 
-Harvard Business Review, Mar 2020 - As the Covid-19 crisis spreads to new epicenters in Europe and the U.S., companies are scrambling to mobilize responses. There are no easy answers, due to the unpredictability of disease dynamics, a lack of relevant prior experience, and the absence of plug-and-play instructions from government or international authorities. With China having experienced the outbreak several weeks ahead of other countries, we distill a dozen lessons from Chinese companies' experience that the rest of the world can learn from. By Martin Reeves, Lars Fæste, Cinthia Chen, Philipp Carlsson-Szlezak, and Kevin Whitaker
+Harvard Business Review, Mar 2020 - As the Covid-19 crisis spreads to new epicenters in Europe and the U.S., companies are scrambling to mobilize responses. There are no easy answers, due to the unpredictability of disease dynamics, a lack of relevant prior experience, and the absence of plug-and-play instructions from government or international authorities. With China having experienced the outbreak several weeks ahead of other countries, we distill a dozen lessons from Chinese companies' experience that the rest of the world can learn from. By Martin Reeves, Lars Fæste, Cinthia Chen, Philipp Carlsson-Szlezak and Kevin Whitaker
 
 #### [Fighting the Gravity of Average Performance](https://sloanreview.mit.edu/article/fighting-the-gravity-of-average-performance/)
 
@@ -37,7 +41,7 @@ Harvard Business Review, Apr 2019 - As the health of the global economy continue
 
 #### [5 ways for business leaders to win in the 2020s](https://www.weforum.org/agenda/2019/01/how-business-leaders-can-win-in-the-2020s)
 
-World Economic Forum, Jan 2019 - The keys to success in business are likely to be very different in ten years’ time. How should leaders prepare their companies to emerge as a winner in a rapidly evolving landscape? With BCG CEO Rich Lesser and BCG Henderson Institute director Martin Reeves, we identify five powerful emerging imperatives that will cut across industries and geographies. By Martin Reeves and Kevin Whitaker
+World Economic Forum, Jan 2019 - The keys to success in business are likely to be very different in ten years’ time. How should leaders prepare their companies to emerge as a winner in a rapidly evolving landscape? With BCG CEO Rich Lesser and BCG Henderson Institute director Martin Reeves, we identify five powerful emerging imperatives that will cut across industries and geographies. By Rich Lesser, Martin Reeves and Kevin Whitaker
 
 #### [The Truth About Corporate Transformation](https://sloanreview.mit.edu/article/the-truth-about-corporate-transformation/)
 
