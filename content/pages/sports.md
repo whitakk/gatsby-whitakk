@@ -15,7 +15,7 @@ My research paper, "Does a 'coattail effect' influence the valuation of players 
 
 #### Princeton Alumni Weekly (2010-20)
 
-I was a student contributor to PAW from 2011-13 writing weekly columns and regular magazine features on Princeton sports, and still occasionally contribute articles on Princeton football and basketball. You can find [my author archive here](https://paw.princeton.edu/search/site/%2522By%2520Kevin%2520Whitaker%2520%25E2%2580%259913%2522) and some recent or favorite articles below: 
+I was a student contributor to PAW from 2011-13 writing weekly columns and regular magazine features on Princeton sports, and have since then occasionally contributed articles on Princeton football and basketball. You can find [my author archive here](https://paw.princeton.edu/search/site/%2522By%2520Kevin%2520Whitaker%2520%25E2%2580%259913%2522) and some recent or favorite articles below: 
 - [Dartmouth topples Princeton in unbeaten battle at Yankee Stadium](https://paw.princeton.edu/article/football-dartmouth-topples-princeton-unbeaten-battle-yankee-stadium)
 - [Dancing again](https://paw.princeton.edu/article/womens-basketball-dancing-again)
 - [Don't fear the Ivy League Tournament](https://paw.princeton.edu/article/don%E2%80%99t-fear-ivy-league-tournament)

@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://whitakk.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://whitakk.com/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://whitakk.com/pages/sports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/pages/reading</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://whitakk.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/posts/52-things-I-learned-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://whitakk.com/posts/Can-you-judge-a-book-by-its-cover</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://whitakk.com/posts/52-things-I-learned-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/posts/Can-you-judge-a-book-by-its-cover</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/posts/reading-bad-books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/pages/business-strategy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/pages/sports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/posts/52-things-I-learned-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/posts/nba-mlb-anna-karenina-principle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/posts/three-dimensional-stories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/analytics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/baseball</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/tag/charts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/data-science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/image-recognition</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/tag/learning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,4 +28,5 @@
 <url> <loc>https://whitakk.com/category/reading</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/category/sports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://whitakk.com/page/0</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://whitakk.com/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker's website]]></description><link>https://whitakk.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 Jan 2021 22:35:17 GMT</lastBuildDate><item><title><![CDATA[52 things I learned in 2020]]></title><description><![CDATA[1. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [...]]]></description><link>https://whitakk.com/posts/52-things-I-learned-2020</link><guid isPermaLink="false">https://whitakk.com/posts/52-things-I-learned-2020</guid><pubDate>Sun, 27 Dec 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker's website]]></description><link>https://whitakk.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Jun 2021 20:46:44 GMT</lastBuildDate><item><title><![CDATA[The NBA, MLB, and the Anna Karenina Principle]]></title><description><![CDATA[All optimal strategies are alike; each suboptimal strategy is suboptimal in its own way.]]></description><link>https://whitakk.com/posts/nba-mlb-anna-karenina-principle</link><guid isPermaLink="false">https://whitakk.com/posts/nba-mlb-anna-karenina-principle</guid><pubDate>Sun, 21 Mar 2021 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/354a2e6f4a9176eeed31887019a45122/72e01/different.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHYLkuKD//EABgQAAIDAAAAAAAAAAAAAAAAABESAAEg/9oACAEBAAEFAjHsvj//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFBgf/aAAgBAQABPyEfJW4+iXIdOHc//9oADAMBAAIAAwAAABCzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAIDAQEBAAAAAAAAAAAAAAERACExkVFx/9oACAEBAAE/ECQw0OfIEyIQg1Mt8jiwki9iYZfYD0fNn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/354a2e6f4a9176eeed31887019a45122/8ac56/different.webp 240w,
+/static/354a2e6f4a9176eeed31887019a45122/d3be9/different.webp 480w,
+/static/354a2e6f4a9176eeed31887019a45122/e46b2/different.webp 960w,
+/static/354a2e6f4a9176eeed31887019a45122/a9a89/different.webp 1024w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/354a2e6f4a9176eeed31887019a45122/09b79/different.jpg 240w,
+/static/354a2e6f4a9176eeed31887019a45122/7cc5e/different.jpg 480w,
+/static/354a2e6f4a9176eeed31887019a45122/6a068/different.jpg 960w,
+/static/354a2e6f4a9176eeed31887019a45122/72e01/different.jpg 1024w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/354a2e6f4a9176eeed31887019a45122/6a068/different.jpg&quot;
+            alt=&quot;Different&quot;
+            title=&quot;Different&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“All optimal strategies are alike; each suboptimal strategy is suboptimal in its own way.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;That’s a butchering of the famous first line of &lt;em&gt;Anna Karenina&lt;/em&gt;. But there’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Anna_Karenina_principle&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;a logic behind it&lt;/a&gt;: Tolstoy’s turn of phrase propounds that there are several necessary characteristics that are required to have a happy family, so all happy families are alike on at least those dimensions; in contrast, unhappy families can be missing any one trait or combination of traits, which means there are many more types of unhappy families. By the same token, for many problems there is only one optimal strategy, and any number of potential sub-optimal strategies.&lt;/p&gt;
+&lt;p&gt;This is relevant for sports, including the NBA. It is well-known by now that players are taking more three-pointers than ever, and reducing the number of two-point shots they take from more than a few feet away. But &lt;a href=&quot;https://twitter.com/kirkgoldsberry/status/1217109175894831105&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kirk Goldsberry’s shot charts&lt;/a&gt; show just how extreme the trend has been.&lt;/p&gt;
+&lt;p&gt;You used to see players and teams specializing in shots all over the court. Basic math shows that many of these areas &lt;a href=&quot;https://fivethirtyeight.com/features/how-mapping-shots-in-the-nba-changed-it-forever/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;were objectively bad to shoot from&lt;/a&gt; — the success rate on shots from 10-20 feet away was only slightly higher than the success rate on three-pointers, yet three-pointers were worth 50% more. As analytics became more widely adopted, teams optimized their offenses to reduce various inefficiencies. This also reduced the diversity of shot locations, as seen above; each optimal offense is alike.&lt;/p&gt;
+&lt;p&gt;For each team, optimizing strategy is by definition a good thing: if other teams are suboptimal, you have an advantage; if other teams are also optimizing, you need to keep up. But for the &lt;em&gt;spectator&lt;/em&gt;, it might make for a worse experience. When all offenses are optimized and alike, there may be less intrigue or surprise about what happens next. It’s no coincidence that Tolstoy writes mostly about unhappy families. (Ann Patchett puts it more bluntly: ”&lt;a href=&quot;https://www.goodreads.com/work/quotes/18373204-this-is-the-story-of-a-happy-marriage?page=3&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Happiness is largely uninteresting&lt;/a&gt;.“)&lt;/p&gt;
+&lt;p&gt;Now, despite my catchy title above, I don’t find this to detract from the NBA watching experience at all. Though players may shoot from the same places, they are still &lt;a href=&quot;https://www.theringer.com/nba/2020/8/5/21353968/nba-three-point-shooting-one-dribble&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;developing new ways to get there&lt;/a&gt;, and I think the style that produces those shots is more exciting than ever: three-pointers, dunks, and crafty passes are great; it’s harder to see the nuances of the post-ups and elbow jumpers that dominated earlier eras (and led to a lot of bricks). You may disagree, however.&lt;/p&gt;
+&lt;p&gt;The sport where this seems to pose a bigger problem is baseball. As &lt;a href=&quot;https://www.washingtonpost.com/sports/2019/05/21/velocity-is-strangling-baseball-its-grip-keeps-tightening/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;pitchers become better&lt;/a&gt;, making contact becomes harder, leading to a constant increase in strikeouts, walks, and home runs; the latter are fun to watch, but they’re dwarfed by the slog of the former two. Pitchers have seemingly realized that &lt;a href=&quot;https://fivethirtyeight.com/features/pitchers-are-slowing-down-to-speed-up/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;taking more time between pitches allows them to throw harder&lt;/a&gt;, slowing the game down significantly. And teams have realized that an endless parade of relievers is more optimal than letting starting pitchers go deep into games, leading to &lt;a href=&quot;https://www.whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;understandable but often misguided backlash&lt;/a&gt; from fans who find that less fun.&lt;/p&gt;
+&lt;p&gt;Depending how much these trends hurt fan interest, the rise of analytics might be considered an &lt;em&gt;&lt;a href=&quot;https://www.nickbostrom.com/information-hazards.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;information hazard&lt;/a&gt;&lt;/em&gt;: the sport would have been better off not knowing what the optimal strategy was, but now that it’s known, it has to be acted upon. But with the increase in available data and analytical capabilities, this was inevitable at some point. (A subject for another time is to think about what other spheres of life we may be seeing this pattern in, such as political discourse.)&lt;/p&gt;
+&lt;p&gt;What’s the solution? Because sports involve an offense and a defense, game theory may seem to help here: for example, in basketball, economics textbooks would dictate that the defense should change its strategy to try to prevent three-pointers and shots at the rim, up until the point where the (marginal) value of taking a shot at any point on the court is equal again. But in practice, there are sometimes constraints: Three is so much greater than two, and so far it seems like there’s only so much a defense can do to counteract that. And in baseball, pitchers dictate the action, so if they become more unhittable, there’s not much of a counter.&lt;/p&gt;
+&lt;p&gt;The only tenable solution is likely to be a change in the rules. MLB is now &lt;a href=&quot;https://www.mlb.com/news/baseball-rule-changes-tested-in-minor-leagues-in-2021&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;running a bunch of rules change experiments in the minor leagues&lt;/a&gt;; I think most of the specific rules being tested here don’t actually do anything to address the underlying issues above, but the overall approach is an admirable one. Teams can’t be counted on to do anything against their self-interest in winning games; responsibility for ensuring the product is exciting has to lie with the league, and continual rules changes in some form are probably going to be the only way to do so.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Three-Dimensional Stories]]></title><description><![CDATA[One of the great archival videos on YouTube is Kurt Vonnegut's short presentation on the shapes of stories. By plotting the emotional arc of a story as a function of time, Vonnegut shows a couple generic paths that encompass a lot of stories -- such as 'man in hole' (a fall when something bad happens, then a rise when it gets resolved) or 'Cinderella' (a rise from the bottom, a fall when the clock strikes midnight, then a rise to happily ever after).]]></description><link>https://whitakk.com/posts/three-dimensional-stories</link><guid isPermaLink="false">https://whitakk.com/posts/three-dimensional-stories</guid><pubDate>Sun, 14 Feb 2021 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;One of the great archival videos on YouTube is &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858658-www.youtube.com/watch?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kurt Vonnegut’s short presentation on the shapes of stories&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ci3.googleusercontent.com/proxy/N19xBJII5MTIdi1RZcRBKNS0I3urgwiicMsU3e-nuIBc40pOhuQ6GoB2Z-Tbutrl2dlNJ7c6-w9CgWUE3UYxFZnYHNuTCmsKmtARWyMWZa4lHgIr0up13iRv5s-y3NxE4RUwM0aCj2d0dha08knzPmE9A3aBLRsh6hWvglYuQOBloeb7RE9Bz1PLquqG=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/05df35d9-ec5a-4dad-ac46-9bec30de05fa.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;By plotting the emotional arc of a story as a function of time, Vonnegut shows a couple generic paths that encompass a lot of stories — such as “man in hole” (a fall when something bad happens, then a rise when it gets resolved) or “Cinderella” (a rise from the bottom, a fall when the clock strikes midnight, then a rise to happily ever after). It’s well worth the four minutes for his pacing and presentation alone.&lt;/p&gt;
+&lt;p&gt;With the advancement of natural language processing in the last few years, some researchers &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858662-www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;decided to quantify this idea&lt;/a&gt;: they took a bunch of famous books, measured the sentiment throughout them (based on the frequency of happy or sad words), and clustered them into whatever patterns emerged. They found six archetypal stories: the two above, “rags to riches” (a constant rise), “riches to rags” (a constant fall), “Icarus” (a rise then fall), and “Oedipus” (fall then rise then fall). Even more complicated stories can be expressed as multiple archetypes strung together (the authors point to the seventh Harry Potter book as an especially complicated plot with many sub-stories).&lt;/p&gt;
+&lt;p&gt;Of course … we didn’t need any data to know that! Those six story types already describe every possible permutation of “rise” and “fall” up to two turns; if you then allow for combinations of these story types, you can describe an infinite number of rises and falls, which means you can describe any story that could possibly exist. (With the trivial exception of the story where nothing ever changes — and therefore there are no rises nor falls — but that story doesn’t exactly sell well.)&lt;/p&gt;
+&lt;p&gt;And yet, the six basic story types still point at something real: by this definition, there are only so many types of stories you can tell. There’s a limit to how many times you can rise or fall before readers stop getting invested or start getting annoyed, so for practical purposes, any combination of rises and falls you can think of has been done many times before. And that means that usually, when you start reading a story or a sub-story, you have a pretty good idea of how it’s going to play out.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ci4.googleusercontent.com/proxy/wzy5d2a3MLdv0-I9CBTQaOKpEImY95d55FvHEGUGsDzRLVD36oGv-DLM3zWiVTafO04iNL37pGEjRD4ubdOrGxlXMuky8uUnj_Wi0VC5W5wuX87qlnOUxBlcXANvFoJPCCbEOtUfXIVRRYo8ehzUZQyNgfSohny1gx6uuhtLkDJRF79LefSP34dql1kI=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/ff8e2cdf-286c-4d6f-934a-4dad7328b9e3.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;How can an author take a story beyond the usual tropes? A way to expand the space of possibilities exponentially is to add a new dimension. This could be done by incorporating different emotions, although it’s hard to match the emotional power of “good vs bad” to define a story. But there’s another option, which is playing with the x-axis instead: make time non-linear.&lt;/p&gt;
+&lt;p&gt;I’ve been struck by how many of the contemporary novels I’ve read have multiple, intertwined timelines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858666-www.goodreads.com/book/show/45304101-the-great-believers?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;The Great Believers&lt;/a&gt;&lt;/em&gt; jumps back and forth between a group of characters in the 1980s and one of them three decades later&lt;/li&gt;
+&lt;li&gt;*&lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858670-www.goodreads.com/book/show/20170404-station-eleven?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Station Eleven&lt;/a&gt; *jumps between four different characters’ stories at different stages of the pandemic&lt;/li&gt;
+&lt;li&gt;*&lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858674-www.goodreads.com/book/show/36809135-where-the-crawdads-sing?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Where the Crawdads Sing&lt;/a&gt; *jumps between the main character’s backstory and a later point in time until they converge &lt;/li&gt;
+&lt;li&gt;*&lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858678-www.goodreads.com/book/show/44318414-the-dutch-house?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;The Dutch House&lt;/a&gt; *jumps forward into the future regularly in between telling a story of the central character’s life &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By making “reader time” distinct from “story time”, these authors added a new dimension into the story — making their novels more complex as a result. For example (light spoilers, although this is just going off my rough memory and could have details wrong), &lt;em&gt;Crawdads&lt;/em&gt; told in linear time would be a very familiar Cinderella story, but in three dimensions it has a more unique and suspenseful structure:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ci6.googleusercontent.com/proxy/Q2QE2AXKlrMGaaM6yFJ4QiMjPT_fbiItlpeEsfwQnzNzza4KPYk3DPXCQTJaAfqtt_Tnx0-XoVqf6DOdWJ471t7n2o3V2JDaAQAlPxRiCgM2Hd2_yeuJ61FzgLUyy-WusuErUxBUoHXidKgih3a0sY4jCxBNMhaO73je-lgaHzyMtwaZugH-C9yVYk20=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/5ce03b71-9459-41db-9057-430645bc10c5.jpg&quot;&gt;I’m not an expert on classic literature (I’d love to hear from those of you who are) but I can’t think of a classic novel with this structure, and a scan of &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858682-www.gutenberg.org/browse/scores/top?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Project Gutenberg’s most popular books&lt;/a&gt; didn’t seem to turn up any. I didn’t find any academic studies on this question, but the &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858686-historicalnovelsociety.org/multi-period-novels-the-keys-to-weaving-together-two-stories-from-different-time-periods/?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;few&lt;/a&gt; random &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858690-www.bustle.com/p/13-new-books-with-dual-timelines-that-combine-the-past-present-11986067?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;articles&lt;/a&gt; and &lt;a href=&quot;http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858694-www.librarything.com/topic/31440?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;threads&lt;/a&gt; I found have plenty of modern examples but nothing older than Ursula Le Guin and Margaret Atwood in the late 20th century. So my hypothesis is that these non-linear novels have become popular as a way to expand the range of possible stories, because the best linear ones have been told and re-told to death.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[52 things I learned in 2020]]></title><description><![CDATA[1. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [...]]]></description><link>https://whitakk.com/posts/52-things-I-learned-2020</link><guid isPermaLink="false">https://whitakk.com/posts/52-things-I-learned-2020</guid><pubDate>Sun, 27 Dec 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
     &gt;
@@ -11,32 +79,32 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAbvk0yshEoP/xAAaEAADAQADAAAAAAAAAAAAAAABAgMAERIU/9oACAEBAAEFAoYwXsTflKs2cET9Djf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEREiFR/9oACAECAQE/AY2MuH//xAAcEAACAgIDAAAAAAAAAAAAAAABEQACEBIhMUH/2gAIAQEABj8CXIMKsicPqb72c8n/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFhcf/aAAgBAQABPyFgCPQ5LomDJbWnXxANNNx7K+s22sL5r6T/2gAMAwEAAgADAAAAEI/f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAwEBPxBDadv/xAAYEQADAQEAAAAAAAAAAAAAAAAAARExYf/aAAgBAgEBPxBstSnMf//EAB4QAQEAAgICAwAAAAAAAAAAAAERACExYUFRgcHh/9oACAEBAAE/ECb3TV1LeucTG4lF3uN+HAG15k7qtwTQbDFXz7zdc1o1ZP3FYVbegPrP/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAGxLJZlZYooP//EABwQAAMAAQUAAAAAAAAAAAAAAAECAwAREhMUMf/aAAgBAQABBQKHhiu48+qVZscES7DjP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/Aaf/xAAZEQABBQAAAAAAAAAAAAAAAAAAARESIVH/2gAIAQIBAT8BjYy4f//EABwQAAMAAQUAAAAAAAAAAAAAAAABEQISITFBkf/aAAgBAQAGPwKOjayjZvPC8GtZ5U6P/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBUXH/2gAIAQEAAT8hdAgnrktowZGnpvkQDTTcezfBttYXzX0n/9oADAMBAAIAAwAAABAP3//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEVH/2gAIAQMBAT8QQ2nb/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMWH/2gAIAQIBAT8QbLUpzH//xAAfEAEBAQEAAQQDAAAAAAAAAAABESEAMUFRYZGhwdH/2gAIAQEAAT8QPJORLkt3x57NPmou7H8PajqiilX63jKQ2GKvr79sI1oyyH95WF234A/Xf//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/e11603ea9f8114c814ed778bc3640064/8ac56/2020.12.27-banana.webp 240w,
+          &lt;source
+              srcset=&quot;/static/e11603ea9f8114c814ed778bc3640064/8ac56/2020.12.27-banana.webp 240w,
 /static/e11603ea9f8114c814ed778bc3640064/d3be9/2020.12.27-banana.webp 480w,
 /static/e11603ea9f8114c814ed778bc3640064/b0a15/2020.12.27-banana.webp 500w&quot;
-          sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/e11603ea9f8114c814ed778bc3640064/09b79/2020.12.27-banana.jpg 240w,
+              sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e11603ea9f8114c814ed778bc3640064/09b79/2020.12.27-banana.jpg 240w,
 /static/e11603ea9f8114c814ed778bc3640064/7cc5e/2020.12.27-banana.jpg 480w,
 /static/e11603ea9f8114c814ed778bc3640064/41099/2020.12.27-banana.jpg 500w&quot;
-          sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/e11603ea9f8114c814ed778bc3640064/41099/2020.12.27-banana.jpg&quot;
-          alt=&quot;Bananas&quot;
-          title=&quot;Bananas&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e11603ea9f8114c814ed778bc3640064/41099/2020.12.27-banana.jpg&quot;
+            alt=&quot;Bananas&quot;
+            title=&quot;Bananas&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;1. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [&lt;a href=&quot;https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Marker&lt;/a&gt;]&lt;/p&gt;
@@ -105,34 +173,34 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAFD4apUyTh//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECEQMSIf/aAAgBAQABBQKdPB0cenYdS3//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGq/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/AbGP/8QAGhABAAIDAQAAAAAAAAAAAAAAAAEhMUFRYf/aAAgBAQAGPwJ7xmYWim3/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQVFhcYH/2gAIAQEAAT8hp0r7DC9oQa+aIMFshRwRyr0n/9oADAMBAAIAAwAAABAH/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EFRWH//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EBD/xAAcEAEAAgMBAQEAAAAAAAAAAAABESEAMUFRYaH/2gAIAQEAAT8QgrNx0fuD2BYG1W5nFYi8Cz93giMzTp7iKAOFIWu+8wNS9AK5n//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAFD4apUyTh//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECEQMSIf/aAAgBAQABBQKdPB0cenYdS3//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGq/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/AbGP/8QAGhABAAIDAQAAAAAAAAAAAAAAAAEhMUFRYf/aAAgBAQAGPwJ7xmYWim3/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQVFhcYH/2gAIAQEAAT8hp0r7DC9oQa+aIMZZCjgjlXpP/9oADAMBAAIAAwAAABAH/wD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EILY/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QEP/EABwQAQACAwEBAQAAAAAAAAAAAAERIQAxQVFhof/aAAgBAQABPxCCs3HR+4PYFgbVbmcViLwLP3eCIzNOnuCUAcKQtd95gal6AVzP/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/9a2670658703489ec41acc6fe4d4c580/8ac56/books.webp 240w,
+          &lt;source
+              srcset=&quot;/static/9a2670658703489ec41acc6fe4d4c580/8ac56/books.webp 240w,
 /static/9a2670658703489ec41acc6fe4d4c580/d3be9/books.webp 480w,
 /static/9a2670658703489ec41acc6fe4d4c580/e46b2/books.webp 960w,
 /static/9a2670658703489ec41acc6fe4d4c580/a9a89/books.webp 1024w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/9a2670658703489ec41acc6fe4d4c580/09b79/books.jpg 240w,
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/9a2670658703489ec41acc6fe4d4c580/09b79/books.jpg 240w,
 /static/9a2670658703489ec41acc6fe4d4c580/7cc5e/books.jpg 480w,
 /static/9a2670658703489ec41acc6fe4d4c580/6a068/books.jpg 960w,
 /static/9a2670658703489ec41acc6fe4d4c580/72e01/books.jpg 1024w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/9a2670658703489ec41acc6fe4d4c580/6a068/books.jpg&quot;
-          alt=&quot;books&quot;
-          title=&quot;books&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/9a2670658703489ec41acc6fe4d4c580/6a068/books.jpg&quot;
+            alt=&quot;books&quot;
+            title=&quot;books&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;[This is for non-fiction books in particular — reading bad fiction can also clearly be a pleasure but I don’t have as much to say about that]&lt;/em&gt;&lt;/p&gt;
@@ -166,30 +234,30 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 67.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJElEQVQ4y4VTS2sTURS+IAjFgcZFXZii2IWLgD8gLpofkEWyDW6z9i8YssmiaowRbdVsJBFCIIGE2NIG3LmKi4INPmirDCXEPGbymPfMPZ47mYRpnWkPfJwz5zv3m+/euUMIISudTueRIAiFwWCQQ+T90O979l8Oh8NXvV7vWalUukkAgIxGow+YwbKsSwFAgdJ5TV19Sinoug71ev2eLYhv2WaCSCiYDD98OxON/lS1a5xd9HW21DAMsdFo3LEF0fKOI6hTV7CWrJl2Pu3P6OOPX+nBUZea1pxzzQEKzpaCuOWloJPBmQNFN+18yAvw4MkevDj4Ae6Z/wQxruEH2XYLLmIhyuLvRIWHmRa8/vzLfkaX3oLM4Xg8fuPl0O30z2AGiZ0v0Dg8g/kH9Hd4Hc/wrZdDt8veRIHn+99BkLRzfU+Hoij6bnmxcKLowI8kGMv61WeIl/KdM6QhrIsAdussaummZRkmK8/xpiM4wXu4PMP3cEUwH5Jm+vKmaRrNZvOuLcjzfEbTtKEsyz8RJ4hTRVFYPmFZVdVjBXGRkySJ1cfI/55Op0f4662zLXOhUGg9l8sFKpUKF4vFgvF4PFitVrlMJhMIh8P3k8nk2tOtrdXI5uYG43d3P91Ip9OBSCSykUqlAuiMi0ajQY7jVpmg7bJQKJB8Pk+63S5BYZLNZkm5XGb0GuI24haCOVhJJBKkVquRVqtFisUiQTOk3W7bWv8AdM2eirObG54AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 67.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAACLklEQVQ4y4VTTWsTURR9oAjFgQZBF21R7MJFwB8QF80PyCLZBtxm618o2aSLSjRGa6sGwRAXCSSQEFtswJ2ruCjUYGlqkVhCzExmMmY+Ml/X+14n6Uyb4IXDee/e+86c9zGEELLQarUei6L4nuf5F4hX89B3WRB8+ZeCIGz1er1nhULhFgEAMhgMPiCDbdvgOI4PNDcBwEWOsWdsGAZUq9X7TBC/sk0FsaAhmfNweCaZ/b86G2PvJG/QpaZpSrVa7S4TRMs7rqDheIKm1LHF+LQ/cp58/Obsf+86ln1e8/QBCo6mgrjlqaDL4PaBZliMDzoiPFzfg+f7R2xuXxyLXxDjGl7ItldwEhNRGn9kHR5tNGDryzGbo8vZgtThcDh8Pcuh1+kvfgTxna9QOzg7d2jPd3gDz/DNLIdelz1Zg/TnHyAqY19+pkNJkuZuebJQ1gz4PVBgqBpwaRdXHF7HR/nWbRoj7MvACj43xzYs2zYtOvTVLVdQxnc4PcN38J+gPhT3xmeFZVlmvV6/xwQ7nc6Gruu8qqpHiBNFUU40TWvTMQXWjjWEoqptRVGnNez7idzG+aksy4f4663QLXPBYHAlk8kESqUSF41Gl2Ox2FK5XOZSqVQgFAo9SCQSt59ubi6G19ZWaX1399PNZDIZCIfDq5TRGReJRJY5jlukgsxlLpcj2WyWdLtdUiwWSTqdJpVKhZbvIJZcpg4W4vE4qzUaDZLP5wmaIc1mk2n9Azo5np/PVf3MAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/f53b66786748a3549512c1bd34a8a123/8ac56/reviews_scatter.webp 240w,
+          &lt;source
+              srcset=&quot;/static/f53b66786748a3549512c1bd34a8a123/8ac56/reviews_scatter.webp 240w,
 /static/f53b66786748a3549512c1bd34a8a123/47f09/reviews_scatter.webp 394w&quot;
-          sizes=&quot;(max-width: 394px) 100vw, 394px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/f53b66786748a3549512c1bd34a8a123/8ff5a/reviews_scatter.png 240w,
+              sizes=&quot;(max-width: 394px) 100vw, 394px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/f53b66786748a3549512c1bd34a8a123/8ff5a/reviews_scatter.png 240w,
 /static/f53b66786748a3549512c1bd34a8a123/cc097/reviews_scatter.png 394w&quot;
-          sizes=&quot;(max-width: 394px) 100vw, 394px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/f53b66786748a3549512c1bd34a8a123/cc097/reviews_scatter.png&quot;
-          alt=&quot;books-scatter&quot;
-          title=&quot;books-scatter&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 394px) 100vw, 394px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/f53b66786748a3549512c1bd34a8a123/cc097/reviews_scatter.png&quot;
+            alt=&quot;books-scatter&quot;
+            title=&quot;books-scatter&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;…which are not so great. There’s no real visible correlation — basically our model predicts every book will get a rating of about 4.0, with very little variation (except one random outlier it doesn’t like).&lt;/p&gt;
@@ -208,32 +276,32 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 63.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHoJTbcEn//xAAaEAACAwEBAAAAAAAAAAAAAAABAgMEEhQj/9oACAEBAAEFAupti42Y7jMOf0eAGOKvlf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/AUf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIREjITIaH/2gAIAQEABj8CccUN8a6NUXZJJ0beH//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExYUFR/9oACAEBAAE/IewNTsx8oPfYjU6axlBfutVNwAPnsvDex//aAAwDAQACAAMAAAAQ8P8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EDNkn//EAB0QAQACAwADAQAAAAAAAAAAAAEAESExQWGRocH/2gAIAQEAAT8QcbQeleL36mimivKgr7FjWwvB/Yie9923fYODfjawdXOjl7w4eZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 63.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHoJibcEn//xAAaEAACAwEBAAAAAAAAAAAAAAABAgMEEhQj/9oACAEBAAEFAupti42Y7jMOf0eAGOKvlf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/AUf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIREjITIaH/2gAIAQEABj8CccUN8a6NUXZJJ0beH//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExYUFR/9oACAEBAAE/IewNTsx8oPfYjU6axlBfutVNwAPnsvDex//aAAwDAQACAAMAAAAQ0P8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EDNkn//EAB0QAQACAwADAQAAAAAAAAAAAAEAESExQWGRocH/2gAIAQEAAT8QcbQeleL36mjmirKgr7FzWwvB/Yie9923fYODfjawdXOjl7w4eZ//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/8ac56/ratings_high.webp 240w,
+          &lt;source
+              srcset=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/8ac56/ratings_high.webp 240w,
 /static/c5f3ac92c5a5eeee21eb446ab4a731e5/d3be9/ratings_high.webp 480w,
 /static/c5f3ac92c5a5eeee21eb446ab4a731e5/b71d6/ratings_high.webp 707w&quot;
-          sizes=&quot;(max-width: 707px) 100vw, 707px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/09b79/ratings_high.jpg 240w,
+              sizes=&quot;(max-width: 707px) 100vw, 707px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/09b79/ratings_high.jpg 240w,
 /static/c5f3ac92c5a5eeee21eb446ab4a731e5/7cc5e/ratings_high.jpg 480w,
 /static/c5f3ac92c5a5eeee21eb446ab4a731e5/8e486/ratings_high.jpg 707w&quot;
-          sizes=&quot;(max-width: 707px) 100vw, 707px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/8e486/ratings_high.jpg&quot;
-          alt=&quot;ratings-high&quot;
-          title=&quot;ratings-high&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 707px) 100vw, 707px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/c5f3ac92c5a5eeee21eb446ab4a731e5/8e486/ratings_high.jpg&quot;
+            alt=&quot;ratings-high&quot;
+            title=&quot;ratings-high&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -248,32 +316,32 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABu2ep0BBP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAwQREv/aAAgBAQABBQIanKpofqW+gmciVUmKnJ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAQUBAQAAAAAAAAAAAAAAAQIREiEiUUGB/9oACAEBAAY/AnqsIldFY4VoPfzg7p1+DSP/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhQVEx/9oACAEBAAE/IWm6sY9gSLJ1ZmGw66NKQcUHlEvD/9oADAMBAAIAAwAAABBUD//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFB/9oACAEDAQE/EHGFn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExYXGB0f/aAAgBAQABPxDW4F3uFw0CoVavS2ay9SND8H7i6iFHine5rDwQMv04BQTqHg9z/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABu2ep0BBP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAwQREv/aAAgBAQABBQIanKpoeJb6CZyJVSYqcn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAQUBAQAAAAAAAAAAAAAAAQIREiEiUUGB/9oACAEBAAY/AnqsIldFY4VoPfzg7p1+DSP/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhQVEx/9oACAEBAAE/IWm6sY88GiydWZhsOujSkHFB5RLw/9oADAMBAAIAAwAAABB0D//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFB/9oACAEDAQE/EHGFn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExYXGB/9oACAEBAAE/EM3Au7RcNgKFra6l3WR2spg/Cccoo8Wd7OYeIGr+MAoJyHg9n//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/abddc827cdfb227b8085868df41abb7a/8ac56/ratings_low.webp 240w,
+          &lt;source
+              srcset=&quot;/static/abddc827cdfb227b8085868df41abb7a/8ac56/ratings_low.webp 240w,
 /static/abddc827cdfb227b8085868df41abb7a/d3be9/ratings_low.webp 480w,
 /static/abddc827cdfb227b8085868df41abb7a/cb533/ratings_low.webp 715w&quot;
-          sizes=&quot;(max-width: 715px) 100vw, 715px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/abddc827cdfb227b8085868df41abb7a/09b79/ratings_low.jpg 240w,
+              sizes=&quot;(max-width: 715px) 100vw, 715px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/abddc827cdfb227b8085868df41abb7a/09b79/ratings_low.jpg 240w,
 /static/abddc827cdfb227b8085868df41abb7a/7cc5e/ratings_low.jpg 480w,
 /static/abddc827cdfb227b8085868df41abb7a/d33ce/ratings_low.jpg 715w&quot;
-          sizes=&quot;(max-width: 715px) 100vw, 715px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/abddc827cdfb227b8085868df41abb7a/d33ce/ratings_low.jpg&quot;
-          alt=&quot;ratings-low&quot;
-          title=&quot;ratings-low&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 715px) 100vw, 715px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/abddc827cdfb227b8085868df41abb7a/d33ce/ratings_low.jpg&quot;
+            alt=&quot;ratings-low&quot;
+            title=&quot;ratings-low&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;So it seems like the adage is true: you can’t judge a book by its cover! Of course, maybe someone with more than like a dozen hours’ experience of image recognition would do better. But it makes sense that there’s no way to predict a book’s rating from its cover alone. Think of it as an efficient-markets theory — authors and publishers put a lot of time and resources into making their covers as attractive as possible. If there was anything on the cover of some books that predictably signaled they were better, then everyone would want to buy those books — so all the other authors and publishers would copy them, and the signal would be lost. (This only applies to relatively high-profile books — if you included all independent books without any marketing resources, there might be a different story.)&lt;/p&gt;

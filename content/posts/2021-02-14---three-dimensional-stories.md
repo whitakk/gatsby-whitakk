@@ -1,0 +1,41 @@
+---
+title: Three-Dimensional Stories
+date: "2021-02-14T12:00:00"
+template: "post"
+draft: false
+slug: "three-dimensional-stories"
+category: "reading"
+tags:
+  - "charts"
+  - "reading"
+description: "One of the great archival videos on YouTube is Kurt Vonnegut's short presentation on the shapes of stories. By plotting the emotional arc of a story as a function of time, Vonnegut shows a couple generic paths that encompass a lot of stories -- such as 'man in hole' (a fall when something bad happens, then a rise when it gets resolved) or 'Cinderella' (a rise from the bottom, a fall when the clock strikes midnight, then a rise to happily ever after)."
+socialImage: "/media/shapes_of_stories.jpg"
+
+---
+
+One of the great archival videos on YouTube is [Kurt Vonnegut's short presentation on the shapes of stories](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858658-www.youtube.com/watch?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff):
+
+![](https://ci3.googleusercontent.com/proxy/N19xBJII5MTIdi1RZcRBKNS0I3urgwiicMsU3e-nuIBc40pOhuQ6GoB2Z-Tbutrl2dlNJ7c6-w9CgWUE3UYxFZnYHNuTCmsKmtARWyMWZa4lHgIr0up13iRv5s-y3NxE4RUwM0aCj2d0dha08knzPmE9A3aBLRsh6hWvglYuQOBloeb7RE9Bz1PLquqG=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/05df35d9-ec5a-4dad-ac46-9bec30de05fa.jpg)
+
+By plotting the emotional arc of a story as a function of time, Vonnegut shows a couple generic paths that encompass a lot of stories -- such as "man in hole" (a fall when something bad happens, then a rise when it gets resolved) or "Cinderella" (a rise from the bottom, a fall when the clock strikes midnight, then a rise to happily ever after). It's well worth the four minutes for his pacing and presentation alone.
+
+With the advancement of natural language processing in the last few years, some researchers [decided to quantify this idea](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858662-www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff): they took a bunch of famous books, measured the sentiment throughout them (based on the frequency of happy or sad words), and clustered them into whatever patterns emerged. They found six archetypal stories: the two above, "rags to riches" (a constant rise), "riches to rags" (a constant fall), "Icarus" (a rise then fall), and "Oedipus" (fall then rise then fall). Even more complicated stories can be expressed as multiple archetypes strung together (the authors point to the seventh Harry Potter book as an especially complicated plot with many sub-stories).
+
+Of course ... we didn't need any data to know that! Those six story types already describe every possible permutation of "rise" and "fall" up to two turns; if you then allow for combinations of these story types, you can describe an infinite number of rises and falls, which means you can describe any story that could possibly exist. (With the trivial exception of the story where nothing ever changes -- and therefore there are no rises nor falls -- but that story doesn't exactly sell well.)
+
+And yet, the six basic story types still point at something real: by this definition, there are only so many types of stories you can tell. There's a limit to how many times you can rise or fall before readers stop getting invested or start getting annoyed, so for practical purposes, any combination of rises and falls you can think of has been done many times before. And that means that usually, when you start reading a story or a sub-story, you have a pretty good idea of how it's going to play out.
+
+![](https://ci4.googleusercontent.com/proxy/wzy5d2a3MLdv0-I9CBTQaOKpEImY95d55FvHEGUGsDzRLVD36oGv-DLM3zWiVTafO04iNL37pGEjRD4ubdOrGxlXMuky8uUnj_Wi0VC5W5wuX87qlnOUxBlcXANvFoJPCCbEOtUfXIVRRYo8ehzUZQyNgfSohny1gx6uuhtLkDJRF79LefSP34dql1kI=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/ff8e2cdf-286c-4d6f-934a-4dad7328b9e3.jpg)
+
+How can an author take a story beyond the usual tropes? A way to expand the space of possibilities exponentially is to add a new dimension. This could be done by incorporating different emotions, although it's hard to match the emotional power of "good vs bad" to define a story. But there's another option, which is playing with the x-axis instead: make time non-linear.
+
+I've been struck by how many of the contemporary novels I've read have multiple, intertwined timelines:
+
+-   *[The Great Believers](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858666-www.goodreads.com/book/show/45304101-the-great-believers?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff)* jumps back and forth between a group of characters in the 1980s and one of them three decades later
+-   *[Station Eleven](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858670-www.goodreads.com/book/show/20170404-station-eleven?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) *jumps between four different characters' stories at different stages of the pandemic
+-   *[Where the Crawdads Sing](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858674-www.goodreads.com/book/show/36809135-where-the-crawdads-sing?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) *jumps between the main character's backstory and a later point in time until they converge 
+-   *[The Dutch House](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858678-www.goodreads.com/book/show/44318414-the-dutch-house?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) *jumps forward into the future regularly in between telling a story of the central character's life 
+
+By making "reader time" distinct from "story time", these authors added a new dimension into the story -- making their novels more complex as a result. For example (light spoilers, although this is just going off my rough memory and could have details wrong), *Crawdads* told in linear time would be a very familiar Cinderella story, but in three dimensions it has a more unique and suspenseful structure:
+
+![](https://ci6.googleusercontent.com/proxy/Q2QE2AXKlrMGaaM6yFJ4QiMjPT_fbiItlpeEsfwQnzNzza4KPYk3DPXCQTJaAfqtt_Tnx0-XoVqf6DOdWJ471t7n2o3V2JDaAQAlPxRiCgM2Hd2_yeuJ61FzgLUyy-WusuErUxBUoHXidKgih3a0sY4jCxBNMhaO73je-lgaHzyMtwaZugH-C9yVYk20=s0-d-e1-ft#https://gallery.tinyletterapp.com/6ce7941fa30716effe5525e3537ec9967daf5b1e/images/5ce03b71-9459-41db-9057-430645bc10c5.jpg)I'm not an expert on classic literature (I'd love to hear from those of you who are) but I can't think of a classic novel with this structure, and a scan of [Project Gutenberg's most popular books](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858682-www.gutenberg.org/browse/scores/top?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) didn't seem to turn up any. I didn't find any academic studies on this question, but the [few](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858686-historicalnovelsociety.org/multi-period-novels-the-keys-to-weaving-together-two-stories-from-different-time-periods/?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) random [articles](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858690-www.bustle.com/p/13-new-books-with-dual-timelines-that-combine-the-past-present-11986067?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) and [threads](http://mail01.tinyletterapp.com/whitakk/kevin-s-newsletter-three-dimensional-stories/18858694-www.librarything.com/topic/31440?c=561c4cbc-86af-4fb9-96f1-3bac76dd6cff) I found have plenty of modern examples but nothing older than Ursula Le Guin and Margaret Atwood in the late 20th century. So my hypothesis is that these non-linear novels have become popular as a way to expand the range of possible stories, because the best linear ones have been told and re-told to death.
