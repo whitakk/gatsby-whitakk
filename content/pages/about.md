@@ -6,7 +6,7 @@ socialImage: "/photo.jpg"
 
 [LinkedIn](https://www.linkedin.com/in/kevin-whitaker-2bb9ab66/) | [Twitter](https://twitter.com/whitakk) | [GitHub](https://github.com/whitakk/) | [GoodReads](https://www.goodreads.com/user/show/61117555-kevin-whitaker/)
 
-I am a data scientist, writer, and researcher with particular experience in business strategy and sports analytics. 
+I am a data scientist, writer, and researcher with experience in studying business strategy and sports analytics. I am currently a director at a new start-up venture. 
 
 Most recently I was the analytics manager at the BCG Henderson Institute, where I led a research team of several consultants and data scientists to write perspectives on the future of business strategy. My writing [has been published](/pages/business-strategy/) in Harvard Business Review, Sloan Management Review, Fortune, and the World Economic Forum.
 
