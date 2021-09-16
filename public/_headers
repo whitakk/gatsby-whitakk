@@ -142,17 +142,6 @@
   Link: </component---src-templates-post-template-js-029d4ab4ef614f54baa3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/reading-bad-books/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/sports
-  Link: </webpack-runtime-17adce0f2bab5d898763.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </532a2f07-cde96b866027c8a44f35.js>; rel=preload; as=script
-  Link: </app-d4e1ac1809f8e37530dd.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-25ae3ddcb8959db33c9e.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/sports/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/52-things-I-learned-2020
   Link: </webpack-runtime-17adce0f2bab5d898763.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -219,6 +208,17 @@
   Link: </component---src-templates-post-template-js-029d4ab4ef614f54baa3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/three-dimensional-stories/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/sports
+  Link: </webpack-runtime-17adce0f2bab5d898763.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </532a2f07-cde96b866027c8a44f35.js>; rel=preload; as=script
+  Link: </app-d4e1ac1809f8e37530dd.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-25ae3ddcb8959db33c9e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/sports/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/analytics
   Link: </webpack-runtime-17adce0f2bab5d898763.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
