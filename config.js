@@ -20,12 +20,12 @@ module.exports = {
       path: '/page/0'
     },
     {
-      label: 'Business & Strategy',
-      path: '/pages/business-strategy'
-    },
-    {
       label: 'Sportswriting & Analysis',
       path: '/pages/sports'
+    },
+    {
+      label: 'Business & Strategy',
+      path: '/pages/business-strategy'
     },
     {
       label: 'Reading',

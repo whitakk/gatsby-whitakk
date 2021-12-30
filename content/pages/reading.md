@@ -7,6 +7,14 @@ socialImage: "/photo.jpg"
 
 I review most of the books I read on GoodReads -- [follow me here](https://www.goodreads.com/user/show/61117555-kevin-whitaker).
 
+Favorite books I read in 2021:
+
+-   [Being Mortal](https://www.goodreads.com/book/show/20696006-being-mortal)
+-   [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423)
+-   [Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
+-   [The Structure of Scientific Revolutions](https://www.goodreads.com/book/show/61539)
+-   [The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884)
+
 Favorite books I read in 2020:
 
 -   [The Great Believers](https://www.goodreads.com/book/show/45304101-the-great-believers)
@@ -33,6 +41,6 @@ Other favorites:
 -   [Salt Fat Acid Heat](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
 -   [Baseball in the Garden of Eden](https://www.goodreads.com/book/show/8984168-baseball-in-the-garden-of-eden)
 -   [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/book/show/17286670-scarcity?ac=1&from_search=true&qid=2ZBHkzhtoH&rank=1)
--   [The Numbers Game](https://www.goodreads.com/book/show/225819.The_Numbers_Game)
+-   [The Numbers Game](https://www.goodreads.com/book/show/225819)
 -   [It's Complicated](https://www.goodreads.com/book/show/18342787-it-s-complicated)
--   [Catch-22](https://www.goodreads.com/book/show/168668.Catch_22?ac=1&from_search=true&qid=W7eQ4yQWQI&rank=1)
+-   [Catch-22](https://www.goodreads.com/book/show/168668)
