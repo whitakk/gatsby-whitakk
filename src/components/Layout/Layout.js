@@ -19,7 +19,8 @@ const Layout = ({
   socialImage = ''
 }: Props) => {
   const { author, url } = useSiteMetadata();
-  const metaImage = socialImage || author.photo;
+  const metaImage = socialImage.replace('../../static/', '/') || author.photo;
+          // hack because i couldn't figure out where this was happening
   const metaImageUrl = url + metaImage;
 
   return (
