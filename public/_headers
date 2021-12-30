@@ -197,17 +197,6 @@
   Link: </component---src-templates-post-template-js-6dcc05239d0eadc0d4fb.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/three-dimensional-stories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/52-things-I-learned-2021
-  Link: </webpack-runtime-f7afaf7f6be68e7f9609.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </532a2f07-cde96b866027c8a44f35.js>; rel=preload; as=script
-  Link: </app-d4e1ac1809f8e37530dd.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-68a6fa3e163bbfb3c471.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-6dcc05239d0eadc0d4fb.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/52-things-I-learned-2021/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/nba-mlb-anna-karenina-principle
   Link: </webpack-runtime-f7afaf7f6be68e7f9609.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -230,6 +219,17 @@
   Link: </component---src-templates-post-template-js-6dcc05239d0eadc0d4fb.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/52-things-I-learned-2020/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/52-things-I-learned-2021
+  Link: </webpack-runtime-f7afaf7f6be68e7f9609.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </532a2f07-cde96b866027c8a44f35.js>; rel=preload; as=script
+  Link: </app-d4e1ac1809f8e37530dd.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-68a6fa3e163bbfb3c471.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6dcc05239d0eadc0d4fb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/52-things-I-learned-2021/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/analytics
   Link: </webpack-runtime-f7afaf7f6be68e7f9609.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
