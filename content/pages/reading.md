@@ -7,6 +7,15 @@ socialImage: "/photo.jpg"
 
 I review most of the books I read on GoodReads -- [follow me here](https://www.goodreads.com/user/show/61117555-kevin-whitaker).
 
+Favorite books I read in 2022:
+
+-   [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)
+-   [A Tale of Two Cities](https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities)
+-   [Black Wave: Saudi Arabia, Iran, and the Forty-Year Rivalry...](https://www.goodreads.com/book/show/43565323-black-wave)
+-   [The Power Law](https://www.goodreads.com/book/show/58009109-the-power-law)
+-   [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
+-   [Expecting Better](https://www.goodreads.com/book/show/16158576-expecting-better)
+
 Favorite books I read in 2021:
 
 -   [Being Mortal](https://www.goodreads.com/book/show/20696006-being-mortal)
@@ -14,6 +23,7 @@ Favorite books I read in 2021:
 -   [Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)
 -   [The Structure of Scientific Revolutions](https://www.goodreads.com/book/show/61539)
 -   [The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884)
+-   [Born a Crime: Stories From a South African Childhood](https://www.goodreads.com/book/show/29780253-born-a-crime)
 
 Favorite books I read in 2020:
 

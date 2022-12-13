@@ -7,6 +7,8 @@ socialImage: "/media/jadwin.jpg"
 
 <img src="/media/jadwin.jpg">
 
+I am currently Director of Pricing Strategy at [Mojo](https://www.mojo.com/), where I develop and deploy models to predict athletes' career performance and manage risk. 
+
 I have extensive experience in sportswriting, often informed by a quantitative perspective and firsthand statistical analysis. You can see [a few recent blog posts on sports here](/tag/sports/) and some of my favorite writing below.
 
 #### MIT Sloan Sports Analytics Conference (2013)
