@@ -1,7 +1,7 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Kevin Whitaker",
+  "url": "https://whitakk.com",
+  "subtitle": "Kevin Whitaker's website",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -17,24 +17,24 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contacts"
+      "label": "Business Strategy",
+      "path": "/pages/business-strategy"
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Kevin Whitaker",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Data scientist, writer, researcher",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
+      "github": "",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "mastodon": "",
       "line": "",
       "weibo": "",
       "gitlab": "",

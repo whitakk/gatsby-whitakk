@@ -1,13 +1,15 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./photo.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+[LinkedIn](https://www.linkedin.com/in/kevin-whitaker-2bb9ab66/) | [Twitter](https://twitter.com/whitakk) | [GitHub](https://github.com/whitakk/) | [GoodReads](https://www.goodreads.com/user/show/61117555-kevin-whitaker/)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+I am a data scientist, writer, and researcher with experience in studying business strategy and sports analytics. I am currently Director of Pricing Strategy at [Mojo](https://www.mojo.com/).
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+Previously I was head of strategic analytics at the BCG Henderson Institute, where I led a research team of several consultants and data scientists to write perspectives on the future of business strategy. My writing [has been published](/pages/business-strategy/) in Harvard Business Review, Sloan Management Review, Fortune, and the World Economic Forum.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I have extensive experience in [sportswriting](/pages/sports) informed by a quantitative perspective and firsthand statistical analysis. My research paper, "Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was published at the 2013 MIT Sloan Sports Analytics Conference, and my writing has appeared in Sports Illustrated and Baseball Prospectus, among other outlets. 
+
+I graduated from Princeton University with a bachelor's degree in economics in 2013. I have [a personal blog](/page/0) with occasional things that I write and may want to reference later. (Any opinions are my own.)
