@@ -9,16 +9,24 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
-      "path": "/"
-    },
-    {
       "label": "About me",
       "path": "/pages/about"
     },
     {
-      "label": "Business Strategy",
+      "label": "Sportswriting & Analysis",
+      "path": "/pages/sports"
+    },
+    {
+      "label": "Business & Strategy",
       "path": "/pages/business-strategy"
+    },
+    {
+      "label": "Reading",
+      "path": "/pages/reading"
+    },
+    {
+      "label": "Other writing",
+      "path": "/"
     }
   ],
   "author": {
