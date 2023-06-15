@@ -18,9 +18,10 @@ My research paper, "Does a 'coattail effect' influence the valuation of players 
 
 My Princeton senior thesis, "Risk Preferences and Wage Determination in the Major League Baseball Labor Market," empirically studied the impact of volatility on players' salaries in free agency. Using a sample of 1,599 contracts signed from 1993-2012, MLB teams were found to pay a premium for players with more volatility, indicating that they are risk-seeking, but only for short-term contracts. [You can read the paper here](./THESIS-FINAL.pdf).
 
-#### Princeton Alumni Weekly (2010-20)
+#### Princeton Alumni Weekly (2010-23)
 
-I was a student contributor to PAW from 2011-13 writing weekly columns and regular magazine features on Princeton sports, and have since then occasionally contributed articles on Princeton football and basketball. You can find [my author archive here](https://paw.princeton.edu/search/site/%2522By%2520Kevin%2520Whitaker%2520%25E2%2580%259913%2522) and some recent or favorite articles below: 
+I was a student contributor to PAW from 2011-13 writing weekly columns and regular magazine features on Princeton sports, and since then I have occasionally contributed articles on Princeton football and basketball. You can find [my author archive here](https://paw.princeton.edu/search/site/%2522By%2520Kevin%2520Whitaker%2520%25E2%2580%259913%2522) and some favorite articles below: 
+- [Still Evolving, Ivy Tournament Comes to Jadwin for the First Time](https://paw.princeton.edu/article/still-evolving-ivy-tournament-comes-jadwin-first-time)
 - [Dartmouth topples Princeton in unbeaten battle at Yankee Stadium](https://paw.princeton.edu/article/football-dartmouth-topples-princeton-unbeaten-battle-yankee-stadium)
 - [Dancing again](https://paw.princeton.edu/article/womens-basketball-dancing-again)
 - [Don't fear the Ivy League Tournament](https://paw.princeton.edu/article/don%E2%80%99t-fear-ivy-league-tournament)
