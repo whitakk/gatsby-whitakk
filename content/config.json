@@ -1,0 +1,55 @@
+{
+  "title": "Kevin Whitaker",
+  "url": "https://whitakk.com",
+  "subtitle": "Kevin Whitaker's website",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-73379983-2",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Sportswriting & Analysis",
+      "path": "/pages/sports"
+    },
+    {
+      "label": "Business & Strategy",
+      "path": "/pages/business-strategy"
+    },
+    {
+      "label": "Reading",
+      "path": "/pages/reading"
+    },
+    {
+      "label": "Other writing",
+      "path": "/"
+    }
+  ],
+  "author": {
+    "name": "Kevin Whitaker",
+    "photo": "/photo.jpg",
+    "bio": "Data scientist, writer, researcher",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "whitakk",
+      "linkedin": "kevin-whitaker-2bb9ab66",
+      "github": "whitakk",
+      "instagram": "",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}

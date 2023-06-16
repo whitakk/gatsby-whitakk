@@ -2,15 +2,13 @@
     Kevin Whitaker's website
 </h1>
 
-Code for my website - in progress
-
 Based on Gatsby - [Lumen theme](http://github.com/alxshelepenok/gatsby-starter-lumen)
 
 
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2020 Kevin Whitaker
+Copyright (c) 2023 Kevin Whitaker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
