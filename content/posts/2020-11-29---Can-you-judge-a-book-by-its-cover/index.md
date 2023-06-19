@@ -54,7 +54,7 @@ And our model is likely a bit more accurate than the statistics indicate, becaus
 
 ![fiction](media/books/fiction.JPG)![nonfiction](media/books/nonfiction.JPG)
 
-Try it for yourself [by following this link and uploading a picture](https://mybinder.org/v2/gh/whitakk/book_covers/master?urlpath=voila%2Frender%2Fbook_genre_predictor.ipynb) -- it will tell you what genres the model predicts for this book. (Note that it takes a little while to load, and may take a couple seconds from when you upload your picture to show results.)
+Try it for yourself [by following this link and uploading a picture](https://mybinder.org/v2/gh/whitakk/book_covers/master?urlpath=voila%2Frender%2Fbook_genre_predictor.ipynb) -- it will tell you what genres the model predicts for this book. (Note: this appears to have broken sometime in the intervening years.)
 
 Of course, it isn't very useful to predict a book's genre from the cover, because you usually know that when you're considering buying it. But it demonstrates that there is information encoded in the cover about what type of book it is, which might apply to dimensions beyond just genre.
 
