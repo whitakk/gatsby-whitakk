@@ -12,7 +12,7 @@ I have extensive experience in sportswriting, often informed by a quantitative p
 
 #### MIT Sloan Sports Analytics Conference (2013)
 
-My research paper, "Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was accepted for publication and a poster at the 2013 MIT Sloan Sports Analytics Conference. [You can read the paper here](/media/Kevin_Whitaker_SSAC_2013.pdf).
+My research paper, "Does a 'coattail effect' influence the valuation of players in the Major League Baseball draft?", was accepted for publication and a poster at the 2013 MIT Sloan Sports Analytics Conference. [You can read the paper here](./Kevin_Whitaker_SSAC_2013.pdf).
 
 #### Risk Preferences and Wage Determination in MLB (2013)
 

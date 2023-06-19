@@ -13,7 +13,9 @@ socialImage: "./media/pilots.png"
 
 ---
 
-![Bananas](./media/pilots.png)
+![Pilots](./media/pilots.png)
+
+*Previous years: [2021](https://www.whitakk.com/52-things-I-learned-2021), [2020](https://www.whitakk.com/52-things-I-learned-2020), [2019](https://www.whitakk.com/posts/52-things-I-learned-2019)*
 
 1\. In the 1980s, 75% of airline accidents happened while the captain (the more senior of the two pilots) was flying the plane. An investigation found this happened because (junior) first officers didn't feel comfortable pointing out concerns when a superior was in charge; after airlines adopted a protocol with explicit steps on how to raise and confirm acknowledgement of an issue, captains' share of accidents fell back to 50%. [[Meltdown](https://www.goodreads.com/book/show/35629742-meltdown)]
 
