@@ -3,7 +3,7 @@ title: Can you judge a book by its cover?
 date: "2020-11-29T12:00:00"
 template: "post"
 draft: false
-slug: "Can-you-judge-a-book-by-its-cover"
+slug: "/posts/Can-you-judge-a-book-by-its-cover"
 category: "data-science"
 tags:
   - "data-science"

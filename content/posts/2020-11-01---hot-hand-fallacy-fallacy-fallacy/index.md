@@ -3,7 +3,7 @@ title: The hot hand fallacy fallacy fallacy
 date: "2020-11-01T12:00:00"
 template: "post"
 draft: false
-slug: "hot-hand-fallacy-fallacy-fallacy"
+slug: "/posts/hot-hand-fallacy-fallacy-fallacy"
 category: "sports"
 tags:
   - "sports"
