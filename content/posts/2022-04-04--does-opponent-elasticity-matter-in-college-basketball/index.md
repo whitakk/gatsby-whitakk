@@ -14,9 +14,6 @@ socialImage: "./media/cbb_elasticity_correlation.png"
 
 ---
 
-Does "opponent elasticity" matter in college basketball?
----------------------------
-
 Around the start of this year's NCAA tournament, I started wondering: do different offenses have different "opponent elasticities"? What I mean by opponent elasticity is how much worse an offense gets when they play a better defense. In particular, I suspected that a team that always takes lots of difficult shots (like UCLA, which attempted more long two-pointers than any other tournament teams and made a lot of them) might do almost as well against good defenses as against bad ones, because there's no real way for anyone to stop them from taking tough shots. In contrast, teams that pass the ball well to get easy shots might be even better against bad opponents but struggle more against good ones that are disciplined and athletic enough to take away easy shots.
 
 [Betterige's Law](https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines) holds here: although there are some non-random differences in "opponent elasticities", they're so small that they have basically no practical value, and they don't strongly correlate with any measures of offensive style.

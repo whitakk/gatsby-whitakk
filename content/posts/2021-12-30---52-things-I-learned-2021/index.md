@@ -11,15 +11,11 @@ tags:
 description: "1. The number of licensed geriatrics doctors in the US fell by 25% from 1996-2010, even as the population aged. Generalists can provide elder care, of course, but at last one RCT showed that patients that see a geriatric specialist have better outcomes than those seeing a generalist. [...]"
 socialImage: "./media/2021.12.30-doctor.jpg"
 
-
 ---
-
-52 things I learned in 2021
----------------------------
 
 ![Doctor](./media/2021.12.30-doctor.jpg)
 
-*Previous years: [2020](https://www.whitakk.com/posts/52-things-I-learned-2020), [2019](https://medium.com/@whitakk/52-things-i-learned-in-2019-61184e11712b)*
+*Previous years: [2020](https://www.whitakk.com/52-things-I-learned-2020), [2019](https://www.whitakk.com/posts/52-things-I-learned-2019)*
 
 1\. The number of licensed geriatrics doctors in the US fell by 25% from 1996-2010, even as the population aged. Generalists can provide elder care, of course, but at last one RCT showed that patients that see a geriatric specialist have better outcomes than those seeing a generalist. [*[Being Mortal](https://www.goodreads.com/book/show/20696006-being-mortal?ac=1&from_search=true&qid=2GYJ8DI4Kj&rank=1)*]
 

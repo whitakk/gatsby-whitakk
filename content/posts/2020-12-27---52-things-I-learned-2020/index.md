@@ -15,6 +15,8 @@ socialImage: "./media/2020.12.27-banana.jpg"
 
 ![Bananas](./media/2020.12.27-banana.jpg)
 
+*Previous years: [2019](https://www.whitakk.com/posts/52-things-I-learned-2019)*
+
 1\. Commercial and consumer toilet paper have different specifications and separate supply chains, which led to the early-pandemic shortages. The same is true of a wide range of perhaps surprising products, such as bananas: restaurants and cafeterias order smaller, loose bananas, whereas supermarkets order larger bananas in bunches. [[Marker](https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0)]
 
 2\. In 1989, Pepsi briefly became (on paper) the world's sixth-largest military power. Russia had an arrangement with the company to trade vodka for cola, but when it ran out of vodka it offered the dispensable assets it had on hand instead -- seventeen submarines, one cruiser, one frigate, and one destroyer (which Pepsi immediately sold). [[Devin Sami](https://www.devinsami.com/blog/things-i-learned-2019-part-1)]
