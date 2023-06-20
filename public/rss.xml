@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Jun 2023 02:03:24 GMT</lastBuildDate><item><title><![CDATA[52 things I learned in 2022]]></title><description><![CDATA[1.  In the 1980s, 75% of airline accidents happened while the captain (the more senior of the two pilots) was flying the plane. An investigation found this happened because (junior) first officers didn't feel comfortable pointing out concerns when a superior was in charge; after airlines adopted a protocol with explicit steps on how to raise and confirm acknowledgement of an issue, captains' share of accidents fell back to 50%. [...]]]></description><link>https://whitakk.com52-things-I-learned-2022</link><guid isPermaLink="false">https://whitakk.com52-things-I-learned-2022</guid><pubDate>Mon, 12 Dec 2022 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kevin Whitaker]]></title><description><![CDATA[Kevin Whitaker]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Jun 2023 02:18:48 GMT</lastBuildDate><item><title><![CDATA[New blog - Kaleidoscope Mind]]></title><description><![CDATA[I've started a new blog on Substack, Kaleidoscope Mind, for writing about whatever topics I'm interested in. The website you're reading now hosts an archive of a few things I've written previously, but newer content will be published over there.]]></description><link>https://whitakk.comnew-blog-kaleidoscope-mind</link><guid isPermaLink="false">https://whitakk.comnew-blog-kaleidoscope-mind</guid><pubDate>Mon, 19 Jun 2023 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/89034f55c018cef2e968b048d4f3054a/2bef9/kaleidoscope_1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEv0lEQVQ4yy2Ua1NSCQCGzx/Ynd2mmc122rYP1U6KVyCRUUBTNENDTUGW5CogNwkEBExSIU3AW0rreIvCCwcEQ+VyjgdwzNqZ3Q87zewP2Nk+bFJe2FWqsbNj0094n3meF2hof0ltn8Nd4xeczcJcIRHBVAWCyqAjM7TXDe0ZoFQdfExBUCx/KOer77D5tSWcvpu6RKsg0s9aAFTIYXP8uBRGCbbt7FOZ2MtUomiIH3hNR9DKKMpH0rQHofziFuw3mbnVClIUrY4eKzY/ClZ2meY/AB2UogVSJRGU0D5HP09Tl5mvnWnMucAqkk9RHiSyC8WFp5vYuSJZoe5qPr109VPJ8pE8nBLA6aI1FBhGdpWhPek2WsSw1mdyh+XQjAEylC/ewHTWEpXsrIdTqvVxDaKhjxZcorN9r9vg970ni/ZpwTSwmNjpjSSlW+jVMo2BOj6hWe2od48pV6wyxCqLOxQhC2/JxJqf0kRI5ziNj19pYx8mY2+WNpPyyL/A0MZbevCoYi2NxbWpyC6H4llXs0fP9DyUgo91vu6fl4xMsF8A3hdClDNisg2hRlFV+B24uWOCU4AhsluTQMkjWyVYlp4L2UXeXsHyePvK3aaFe0z3gHB5RBHo4XhscqSBYiUwtVVxlB85skFJM3wAqLfRqq7FrDM0TrVroiPk0vt72eAv6ui0AZzQzrmM8H1uYFTqfWIMdgoipB/FeeUKWSjJi6PXV/4DcFQh4dtqE23RIQkNSbyDooCDP+21uWIzY7/Pa4LOpck7E/08r0Psc7T5B7mRWxc7ss+XlNliVTEUoF+uNzFmnRqf5TZobvYMCn1O9ToyO/LrNOG589JLt9htCTokfgvH080ER6QLDrmfg1cTf8Djb/cDdVnMLpZrTOUzszw9LI9D4nukDcMzIy+n8VvOSy+eityWtRFZoJ/nMTWBNvHioNwvIOoJGXl5dZ1APolNPFVjrvM62tYdInCA77fzZ3z22djs6G/z6lXn/JT6kbUFtLV67WK/XRhtvNKJySBQ+tYqNlDgznO0UufKPE3jVrud2i/AJtXRaaPXqZ97bESs3MC4zOsyBDsF0eIL0hySSBb8h5v4DKwrulubQEmOGKmApeXCDpG3T7D8sH3FxFgwM54MCJaHFYGeFs+gDGkotRIa1VUIKoTSdmjnHnwAODaS9NXDivU0FidRUZ7aZc+6mz2dDO8XSVhLRgZ4XwAOCCByhphsR6gQ2h5+591MnkiylNjpjb5t20KxpRojdXxMvaqrd48qAgNypF8ZH1KsW7ieLtbCbEeo+Bzv1twrXfzDFPLGs5mUneiJ7CnCe8oXn8PI4g0roRljxFC+WIMx1BbJ2Bjn9J3wqArR143mXaxv8f6t2HjfB+12Qwc1wTSgh1I1gRQ5ghYqZmrPX9dU9F47y8g+11zYNllq3cDgW4tON3MKJNJCLT6PVhY8JvmP5OEDAXRUtP4JUMcOWfFjCowSBrdzT13BXSAT2NYW3181CFoeQTnwYXWPPx/bgP36p9wbchJ0cgaqrY/CwD6z50+gqeNFZcdTXHkr9vsczOViovtdJYIq4fRdaN8I7Zvg1C3kmASj+bcHcr/OwONukniWetOmrGfVKpn8HyJ/daKDDt6VAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/89034f55c018cef2e968b048d4f3054a/8ac56/kaleidoscope_1.webp 240w,
+/static/89034f55c018cef2e968b048d4f3054a/d3be9/kaleidoscope_1.webp 480w,
+/static/89034f55c018cef2e968b048d4f3054a/e46b2/kaleidoscope_1.webp 960w,
+/static/89034f55c018cef2e968b048d4f3054a/a9a89/kaleidoscope_1.webp 1024w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/89034f55c018cef2e968b048d4f3054a/8ff5a/kaleidoscope_1.png 240w,
+/static/89034f55c018cef2e968b048d4f3054a/e85cb/kaleidoscope_1.png 480w,
+/static/89034f55c018cef2e968b048d4f3054a/d9199/kaleidoscope_1.png 960w,
+/static/89034f55c018cef2e968b048d4f3054a/2bef9/kaleidoscope_1.png 1024w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/89034f55c018cef2e968b048d4f3054a/d9199/kaleidoscope_1.png&quot;
+            alt=&quot;Kaleidoscope&quot;
+            title=&quot;Kaleidoscope&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’ve started a new blog on Substack, &lt;a href=&quot;https://kaleidoscopemind.substack.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kaleidoscope Mind&lt;/a&gt;, for writing about whatever topics I’m interested in. The website you’re reading now hosts an archive of a few things I’ve written previously, but newer content will be published over there.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[52 things I learned in 2022]]></title><description><![CDATA[1.  In the 1980s, 75% of airline accidents happened while the captain (the more senior of the two pilots) was flying the plane. An investigation found this happened because (junior) first officers didn't feel comfortable pointing out concerns when a superior was in charge; after airlines adopted a protocol with explicit steps on how to raise and confirm acknowledgement of an issue, captains' share of accidents fell back to 50%. [...]]]></description><link>https://whitakk.com52-things-I-learned-2022</link><guid isPermaLink="false">https://whitakk.com52-things-I-learned-2022</guid><pubDate>Mon, 12 Dec 2022 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
     &gt;
@@ -450,7 +494,7 @@
 &lt;p&gt;&lt;img src=&quot;/fd85a5410e42b75bbd27ff61214aa50c/fantasy.jpg&quot; alt=&quot;fantasy&quot;&gt;&lt;/p&gt;
 &lt;p&gt;And our model is likely a bit more accurate than the statistics indicate, because some books are not exhaustively labeled. For instance, #1 under “Fiction” here is indeed a fiction book, but it hasn’t been tagged as such on GoodReads (instead tagged as just Mystery and Historical Fiction). If we corrected those errors, we could train the model better and it would also likely score better in evaluation.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/c7d536e4d1258da05ad117c6f6142cff/fiction.jpg&quot; alt=&quot;fiction&quot;&gt;&lt;img src=&quot;/a94247d05db3a8cbbb8f0b2fd6c124fb/nonfiction.jpg&quot; alt=&quot;nonfiction&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Try it for yourself &lt;a href=&quot;https://mybinder.org/v2/gh/whitakk/book_covers/master?urlpath=voila%2Frender%2Fbook_genre_predictor.ipynb&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;by following this link and uploading a picture&lt;/a&gt; — it will tell you what genres the model predicts for this book. (Note that it takes a little while to load, and may take a couple seconds from when you upload your picture to show results.)&lt;/p&gt;
+&lt;p&gt;Try it for yourself &lt;a href=&quot;https://mybinder.org/v2/gh/whitakk/book_covers/master?urlpath=voila%2Frender%2Fbook_genre_predictor.ipynb&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;by following this link and uploading a picture&lt;/a&gt; — it will tell you what genres the model predicts for this book. (Note: this appears to have broken sometime in the intervening years.)&lt;/p&gt;
 &lt;p&gt;Of course, it isn’t very useful to predict a book’s genre from the cover, because you usually know that when you’re considering buying it. But it demonstrates that there is information encoded in the cover about what type of book it is, which might apply to dimensions beyond just genre.&lt;/p&gt;
 &lt;p&gt;And it makes sense that this could work. As mentioned before, if there was something that signaled “this is a great book” it would be adopted everywhere — but something that signals “this is a great book &lt;em&gt;for you,&lt;/em&gt; &lt;em&gt;if you like books of a certain type&lt;/em&gt;” can’t be adopted everywhere, because it will turn off people who prefer a different type instead. So signaling this way is actually effective.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The hot hand fallacy fallacy fallacy]]></title><description><![CDATA[You've probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the hot hand: a player who made their last couple shots was more likely to make the next one as well. But a famous 1985 study, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one -- there was no hot hand.]]></description><link>https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</link><guid isPermaLink="false">https://whitakk.com/posts/hot-hand-fallacy-fallacy-fallacy</guid><pubDate>Sun, 01 Nov 2020 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’ve probably heard of the hot hand fallacy. In many areas, but most famously in basketball, people have long believed in the “hot hand”: a player who made their last couple shots was more likely to make the next one as well. But &lt;a href=&quot;https://www.cs.colorado.edu/~mozer/Teaching/syllabi/7782/readings/gilovich%2520vallone%2520tversky.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;a famous 1985 study&lt;/a&gt;, analyzing some in-game NBA data and some experiments with Cornell basketball players, found that there was no correlation between previous shots and the outcome of the next one — there was no hot hand.&lt;/p&gt;
 &lt;p&gt;One of the study’s authors, Amos Tversky, became one of the pioneers of behavioral economics (along with Daniel Kahneman), and the hot hand fallacy entered the canon of ways in which we act irrationally — we read patterns from data that is really just random noise.&lt;/p&gt;
