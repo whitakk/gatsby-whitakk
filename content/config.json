@@ -5,12 +5,16 @@
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
-  "postsLimit": 4,
+  "postsLimit": 5,
   "pathPrefix": "/",
   "menu": [
     {
       "label": "About me",
       "path": "/pages/about"
+    },
+    {
+      "label": "My blog: Kaleidoscope Mind",
+      "path": "https://kaleidoscopemind.substack.com/"
     },
     {
       "label": "Sportswriting & Analysis",
@@ -32,7 +36,7 @@
   "author": {
     "name": "Kevin Whitaker",
     "photo": "/photo.jpg",
-    "bio": "Data scientist, writer, researcher",
+    "bio": "Data scientist, writer, learner",
     "contacts": {
       "rss": "",
       "email": "",
