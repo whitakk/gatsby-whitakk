@@ -145,6 +145,18 @@ const createPages: GatsbyNode["createPages"] = async ({ graphql, actions }) => {
       path,
     });
   }
+  // Override root route to the About page
+  const aboutEdge = pages.find(
+    edge => edge.node.fields?.slug === "/about/"
+  );
+  if (aboutEdge) {
+    createPage({
+      path: "/",
+      component: constants.templates.pageTemplate,
+      context: { slug: aboutEdge.node.fields!.slug },
+    });
+  }
+
 };
 
 export { createPages };
