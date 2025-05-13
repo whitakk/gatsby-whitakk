@@ -1,5 +1,5 @@
 ---
-title: "Sportswriting and analysis"
+title: "Sports Analytics"
 template: "page"
 socialImage: "./jadwin.jpg"
 ---
